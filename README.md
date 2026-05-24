@@ -283,7 +283,7 @@ Cross-validation ensures the model generalizes well to unseen data by validating
 │   └── person.csv
 │
 ├── notebooks/
-│   └── Another_copy_of_DM_Checkpoint2.ipynb
+│   └── main.ipynb
 │
 ├── readme_assets/
 │   ├── eda_analysis_page.png
@@ -427,7 +427,7 @@ towards solving real-world public safety challenges.
 For questions, collaboration, or feedback:
 
 📧 Sougata Nayak  
-GitHub: https://github.com/
+GitHub: [https://github.com/](https://github.com/sougata-nayak)
 
 ---
 

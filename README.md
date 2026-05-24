@@ -140,7 +140,7 @@ The project involved extensive analysis of accident trends and severity patterns
 
 The analysis showed that injury severity generally increases with age, with elderly individuals being more vulnerable during traffic accidents.
 
-![EDA Analysis](readme_assets/eda_analysis_page.png)
+<img src="readme_assets/eda_analysis_page.png" alt="EDA Analysis" width="650">
 
 ### Key Insights
 
@@ -352,7 +352,7 @@ jupyter notebook
 Open:
 
 ```text
-Another_copy_of_DM_Checkpoint2.ipynb
+main.ipynb
 ```
 
 Run all cells sequentially.

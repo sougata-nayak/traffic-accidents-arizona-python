@@ -427,7 +427,7 @@ towards solving real-world public safety challenges.
 For questions, collaboration, or feedback:
 
 📧 Sougata Nayak  
-GitHub: [https://github.com/](https://github.com/sougata-nayak)
+GitHub: [https://github.com/sougata-nayak](https://github.com/sougata-nayak)
 
 ---
 
